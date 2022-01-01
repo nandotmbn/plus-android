@@ -1,0 +1,51 @@
+[
+	{
+		"name": "Bayam",
+		"url": "https://i.postimg.cc/tCR7St9j/Bayam.jpg",
+		"description": "Bayam (Amaranthus) adalah tumbuhan yang biasa ditanam untuk dikonsumsi daunnya sebagai sayuran hijau. Tumbuhan ini berasal dari Amerika tropik namun sekarang tersebar ke seluruh dunia. Tumbuhan ini dikenal sebagai sayuran sumber zat besi yang penting bagi tubuh.",
+		"interval": "25 - 30 Hari",
+		"intervalDescription": "Dapat dipanen secara bertahap setiap 5 hari setelah masa tanam"
+	},
+	{
+		"name": "Kangkung",
+		"url": "https://i.postimg.cc/SxJRqSX1/Kangkung.jpg",
+		"description": "Kangkung (Ipomoea aquatica) adalah tumbuhan yang termasuk jenis sayur-sayuran dan ditanam sebagai makanan. Tanaman ini banyak diperjual - belikan di Asia namun daerah asalnya masih belum diketahui.",
+		"interval": "21 - 30 Hari",
+		"intervalDescription": "Dapat dipanen setiap 5 hari setelah masa tanam"
+	},
+	{
+		"name": "Tomat",
+		"url": "https://i.postimg.cc/tJkJR7tw/Tomat.jpg",
+		"description": "Tomat (Solanum lycopersicum syn. Lycopersicum esculentum).  adalah tumbuhan dari keluarga Solanaceae, tumbuhan asli Amerika Tengah dan Selatan, dari Meksiko sampai Peru. Tumbuhan ini memiliki buah berawarna hijau, kuning, dan merah yang biasa dipakai sebagai sayur dalam masakan atau dimakan secara langsung tanpa diproses.",
+		"interval": "60 - 65 Hari",
+		"intervalDescription": "Dapat dipanen setiap 5 hari setelah masa tanam"
+	},
+	{
+		"name": "Cabai",
+		"url": "https://i.postimg.cc/2SM6Sshk/Cabai.jpg",
+		"description": "Cabai atau cabai merah atau lombok adalah buah dan tumbuhan anggota genus Capsicum. Buahnya dapat digolongkan sebagai sayuran maupun bumbu, tergantung bagaimana digunakan. Sebagai bumbu, buah cabai yang pedas sangat populer di Asia Tenggara sebagai penguat rasa makanan.",
+		"interval": "80 - 90 Hari",
+		"intervalDescription": "Dapat dipanen setiap 5 hari setelah masa tanam"
+	},
+	{
+		"name": "Seledri",
+		"url": "https://i.postimg.cc/fTHy6tb0/Seledri.jpg",
+		"description": "Seledri (Apium graveolens L.) adalah sayuran daun dan tumbuhan obat yang biasa digunakan sebagai bumbu masakan.",
+		"interval": "4 - 6 Minggu",
+		"intervalDescription": "Dapat dipanen setiap 5 hari setelah masa tanam"
+	},
+	{
+		"name": "Timun",
+		"url": "https://i.postimg.cc/kMvBvh3s/Timun.jpg",
+		"description": "Mentimun, timun, atau ketimun (Cucumis sativus L.; suku labu-labuan atau Cucurbitaceae) merupakan tumbuhan yang menghasilkan buah yang dapat dimakan. Buahnya biasanya dipanen ketika belum masak benar untuk dijadikan sayuran atau penyegar, tergantung jenisnya",
+		"interval": "30 Hari",
+		"intervalDescription": "Dapat dipanen setiap 7 hari setelah masa tanam"
+	},
+	{
+		"name": "Pakcoy",
+		"url": "https://i.postimg.cc/HndjCb5b/Pakcoy.jpg",
+		"description": "Pakcoy atau bok choy (Brassica rapa Kelompok Chinensis; suku sawi-sawian atau Brassicaceae) merupakan jenis sayuran yang populer. Sayuran yang dikenal pula sebagai sawi sendok ini mudah dibudidayakan dan dapat dimakan segar (biasanya dilayukan dengan air panas) atau diolah menjadi asinan.",
+		"interval": "20 Hari",
+		"intervalDescription": "Dipanen setiap masa tanam selesai"
+	}
+]

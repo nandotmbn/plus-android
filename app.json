@@ -1,0 +1,47 @@
+{
+	"expo": {
+		"name": "plus",
+		"slug": "plus",
+		"version": "1.0.0",
+		"scheme": "plus",
+		"orientation": "portrait",
+		"icon": "./assets/icon.png",
+		"splash": {
+			"image": "./assets/ss.png",
+			"resizeMode": "contain",
+			"backgroundColor": "#688f4e"
+		},
+		"updates": {
+			"fallbackToCacheTimeout": 0
+		},
+		"assetBundlePatterns": ["**/*"],
+		"ios": {
+			"supportsTablet": true
+		},
+		"android": {
+			"package": "com.orlandosykes.plus",
+			"googleServicesFile": "./google-services.json",
+			"adaptiveIcon": {
+				"foregroundImage": "./assets/icon.png",
+				"backgroundColor": "#FFFFFF"
+			},
+			"config": {
+				"googleSignIn": {
+					"apiKey": "AIzaSyCV9Do4gpyjgE0yi3Wjd5hE-tSAE4n-x7M"
+				}
+			}
+		},
+		"web": {
+			"favicon": "./assets/icon.png"
+		},
+		"plugins": [
+			[
+				"expo-notifications",
+				{
+					"icon": "./assets/icon.png",
+					"color": "#ffffff"
+				}
+			]
+		]
+	}
+}
